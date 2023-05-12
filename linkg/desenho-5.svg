@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="linkg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="desenho-5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46769781"
+     inkscape:cx="342.10124"
+     inkscape:cy="374.17323"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800000;stroke:#ffffff;stroke-width:5.85600024;stroke-dasharray:none"
+       id="rect184"
+       width="200"
+       height="200"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ff8080;stroke:#ffffff;stroke-width:5.856;stroke-dasharray:none"
+       id="rect954"
+       width="43.559998"
+       height="55.439999"
+       x="43.559998"
+       y="83.159996" />
+    <rect
+       style="fill:#ff8080;stroke:#ffffff;stroke-width:5.74816;stroke-dasharray:none"
+       id="rect1010"
+       width="41.404987"
+       height="55.547844"
+       x="104.0375"
+       y="83.106071" />
+    <rect
+       style="fill:#ff8080;stroke:#ffffff;stroke-width:5.856;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect1008"
+       width="59.399998"
+       height="18.234285"
+       x="65.057137"
+       y="101.76286" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:31.2294px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff8080;stroke:#ffffff;stroke-width:14.3999;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="52.220749"
+       y="52.120541"
+       id="text1792"
+       transform="scale(1.0348076,0.9663632)"><tspan
+         sodipodi:role="line"
+         id="tspan1790"
+         style="stroke-width:14.3999"
+         x="52.220749"
+         y="52.120541">linkg</tspan></text>
+  </g>
+</svg>
